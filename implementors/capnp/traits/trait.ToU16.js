@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"conmon_common":[["impl ToU16 for <a class=\"enum\" href=\"conmon_common/conmon_capnp/conmon/log_driver/enum.Type.html\" title=\"enum conmon_common::conmon_capnp::conmon::log_driver::Type\">Type</a>"],["impl ToU16 for <a class=\"enum\" href=\"conmon_common/conmon_capnp/conmon/enum.Namespace.html\" title=\"enum conmon_common::conmon_capnp::conmon::Namespace\">Namespace</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
